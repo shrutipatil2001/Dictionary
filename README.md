@@ -3,7 +3,7 @@ Using Hash table and Tree
 
 **Working**
 
-This dictionary uses hash table and binary search tree to form a dictionary of english words and meanings.
+This dictionary uses hash table and binary search tree to form a dictionary of English words and meanings.
 
 The operations performed are:
 
