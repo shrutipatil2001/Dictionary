@@ -7,11 +7,11 @@ This dictionary uses hash table and binary search tree to form a dictionary of E
 
 The operations performed are:
 
--i  : To insert new word with meaning
--v  : To view words in dictionary
--f  : To search meaning of words
--r  : To remove word with meaning
--s  : To see suggestions for a prefix
--h  :  To see recent activities
+1. -i  : To insert new word with meaning
+2. -v  : To view words in dictionary
+3. -f  : To search meaning of words
+4. -r  : To remove word with meaning
+5. -s  : To see suggestions for a prefix
+6. -h  :  To see recent activities
 
 ./main option (data appropriately)
